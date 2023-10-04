@@ -6,7 +6,7 @@ This is a simple Android app that allows users to convert between different unit
 - [GitHub](https://github.com/Nilsn1/oibsip1_UnitConverter)
 
 ## Output
-- [Download Apk](https://drive.google.com/file/d/10OXEPEeRJbU_6E6pddqFKqE_2A9A5sGx/view?usp=drive_link)
+- [Download Apk](https://www.mediafire.com/file/en3kp4pkn0hdskg/Unit_Converter.apk/file)
 
 
 
@@ -17,7 +17,7 @@ Welcome to the oibsip3_Calculator Android App repository! The Calculator App is 
 - [GitHub](https://github.com/Nilsn1/oibsip3_Calculator)
 
 ## Output
-- [Download Apk](https://drive.google.com/file/d/1112pdKlt-iDut5tL-RBxBGgEElmRpZpA/view?usp=drivesdk)
+- [Download Apk](https://www.mediafire.com/file/m9scxfsky93t1h8/Calculator.apk/file)
 
 
 
@@ -29,4 +29,4 @@ This Android Quiz App is a simple application that allows users to take quizzes 
 
 ## Output
 
-- [Download Apk](https://drive.google.com/file/d/1-6N4kqxernG0qTmIIh_1NZvmpPdIb4gq/view?usp=drive_link)
+- [Download Apk](https://www.mediafire.com/file/tk9co4na3xovxeh/Quiz_App.apk/file)
